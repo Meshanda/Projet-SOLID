@@ -20,6 +20,7 @@ Killian PEREZ (myself)
 1 month
 
 ## Acquired skills
+- SOLID Principles
 - Scriptable Objects
 - Coroutines, Tweening, Animator Curves
 - Unity event system
@@ -33,6 +34,7 @@ Killian PEREZ (myself)
 - Twitch Chatbots
 - Design patterns: Singleton, State, Component, Observer, Command, Object Pool
 - Make a save and load system in Unity
+- tons of good practice tips
 
 ## Assets
 The assets used in this project have been made by Jean DUCAMP.
