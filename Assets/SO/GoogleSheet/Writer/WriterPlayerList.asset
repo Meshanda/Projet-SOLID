@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5bf4c1d037d1e547b5b084adc6bf3d2, type: 3}
+  m_Name: WriterPlayerList
+  m_EditorClassIdentifier: 
+  spreadSheetID: 16yNi5BqMcS1-dxvEcqpfvYAs-NGWg9OS6TCQbsL_mB8
+  sheetName: Twitch Game Writer
+  rangeData: A2:B100
+  playerNames: {fileID: 11400000, guid: 8495dd6432db6e44e858e6b2f031f57b, type: 2}
+  playerClasses: {fileID: 11400000, guid: e82b8c5b25876984cb8d6f45ce02f943, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85e6063146ae8a549a723c011528245d, type: 3}
+  m_Name: ParameterLink
+  m_EditorClassIdentifier: 
+  _data: {fileID: 11400000, guid: 61def28db5c87a34fa3bf25872763b62, type: 2}
+  keyName:
+  - Round Timer
+  - Player Delay
+  - Map Height
+  - Map Width
+  - Number Of Player
+  value:
+  - {fileID: 11400000, guid: b371bf53aad79644f81731f6e2bc8fd0, type: 2}
+  - {fileID: 11400000, guid: a87f044a6086cb94fbb96516a665af89, type: 2}
+  - {fileID: 11400000, guid: f35c1f7111fce4340835501ef7473af4, type: 2}
+  - {fileID: 11400000, guid: fb5899771e91af44c9c3e08f05585a17, type: 2}
+  - {fileID: 11400000, guid: 2a911ea611dce7d4bbbf8bef64f9890f, type: 2}

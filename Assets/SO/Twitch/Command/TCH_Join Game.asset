@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4de3c3ecaba4f54a9fe43380ab52c59, type: 3}
+  m_Name: TCH_Join Game
+  m_EditorClassIdentifier: 
+  twitchCommandName:
+  - join
+  - j
+  needParams: 1
+  playerCommandExecuted: {fileID: 11400000, guid: de49a47b5e745e04991d008e84964f49, type: 2}
+  ClassExistent:
+  - {fileID: 11400000, guid: 1bd0f614a8afcc842a07349a07243f90, type: 2}
+  - {fileID: 11400000, guid: 812daba9cfa9f8e43aebf497ea881811, type: 2}
+  - {fileID: 11400000, guid: a4383139e846e264f85b73689fd0da7c, type: 2}

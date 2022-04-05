@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3beea2ac1c30664ab29978645eaee8c, type: 3}
+  m_Name: End Game State
+  m_EditorClassIdentifier: 
+  _statesName: 4
+  DefaultNextState: {fileID: 11400000, guid: 8f7ab84c8806ec041a007dfff56dc72c, type: 2}
+  endScene: {fileID: 11400000, guid: d0f6d2a86c1fc744abd65e669095d9f8, type: 2}

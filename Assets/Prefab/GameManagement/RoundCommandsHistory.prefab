@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &608672858591652030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 608672858591652028}
+  - component: {fileID: 608672858591652029}
+  m_Layer: 0
+  m_Name: RoundCommandsHistory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &608672858591652028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608672858591652030}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 306.74722, y: 254.52634, z: -34.098568}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &608672858591652029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608672858591652030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90dce33b0912f2543895e9cdcdf995fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _timeBtwTurns: {fileID: 11400000, guid: 93d64158e5b98a64382bb8751c111a76, type: 2}
+  EnterActionTimer: {fileID: 11400000, guid: b371bf53aad79644f81731f6e2bc8fd0, type: 2}
+  PlayerDelay: {fileID: 11400000, guid: a87f044a6086cb94fbb96516a665af89, type: 2}
+  endRound: {fileID: 11400000, guid: 72dfb586f4b72824ea236dc1e5a7d074, type: 2}
+  endTurn: 0
