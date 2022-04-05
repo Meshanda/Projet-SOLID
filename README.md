@@ -24,6 +24,8 @@ Killian PEREZ (myself)
 - Scriptable Objects
 - Coroutines, Tweening, Animator Curves
 - Unity event system
+- Unity audio system
+- Design patterns: Singleton, State, Component, Observer, Command, Object Pool
 - JSON Api
 - Memory management
 - Delegates and C# Events
@@ -32,7 +34,6 @@ Killian PEREZ (myself)
 - TCP Clients
 - Google Sheet API
 - Twitch Chatbots
-- Design patterns: Singleton, State, Component, Observer, Command, Object Pool
 - Make a save and load system in Unity
 - tons of good practice tips
 
